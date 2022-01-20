@@ -15,7 +15,7 @@ export default function Home() {
         <h1 className={styles.title}>
           Welcome to <a href="https://halapharma.000webhostapp.com/">Hala!</a>
         </h1>
-      <img id ="CarsMove" src="/images/F.JPG" alt="no_photo">
+      <Image id ="CarsMove" src="/images/F.JPG" alt="no_photo" width={200} height={200}/>
 
         <p className={styles.description}>
           Get started by editing{' '}
