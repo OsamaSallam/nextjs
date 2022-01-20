@@ -1,7 +1,7 @@
 import Head from 'next/head'
 import Image from 'next/image'
-import 'bootstarp/dist/bootstrap.min.css'
-import 'bootstarp/dist/bootstrap.min.js'
+import 'bootstrap/dist/bootstrap.min.css'
+import 'bootstrap/dist/bootstrap.min.js'
 
 export default function Home() {
   return (
